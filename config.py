@@ -1,3 +1,6 @@
 BASE_URL = "https://test-main.cloud-kitchen.in/"
+HOME_SELECT_URL = "https://test-main.cloud-kitchen.in/homeSelect"
+KITCHENS_SELECT_URL = "https://test-main.cloud-kitchen.in/kitchensSelect"
 AUTH_URL = "https://api-test.cloud-kitchen.in/itc_nbd/v2/authenticate/"
 OTP_URL = "https://api-test.cloud-kitchen.in/itc_nbd/login/"
+RESET_PASSWORD_URL = "https://api-test.cloud-kitchen.in/itc_nbd/v1/verify-reset-password/"
